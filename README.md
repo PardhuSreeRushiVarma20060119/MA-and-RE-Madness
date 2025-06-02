@@ -1,4 +1,4 @@
-# 🧠 MA & RE Madness  
+# 💀 *'Malware Analysis & Reverse Engineering' Madness* 
 ### *Malware Analysis & Reverse Engineering Knowledge Base*
 
 ![Repo Type](https://img.shields.io/badge/type-personal%20knowledge%20base-blueviolet)
