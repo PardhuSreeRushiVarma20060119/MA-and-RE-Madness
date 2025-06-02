@@ -34,7 +34,8 @@ MARE-Madness/
 ├── 📁 reverse-engineering/     → CrackMes, patching trials, function analysis
 ├── 📁 samples/                 → (Redacted) hashes or safe test binaries
 ├── 📁 tools/                   → Scripts, configs, automation helpers
-├── 📁 writeups/                → Full investigations & malware flow deconstruction
+├── 📁 investigations/          → Full investigations & malware flow deconstruction
+├── 📁 resources/               → PDF's, Books, Documents, Papers, Pages, News, Related to Malware Analysis & Reverse Engineering
 └── 📄 README.md
 ```
 
@@ -63,7 +64,7 @@ MARE-Madness/
   - 🧬 x64dbg / OllyDbg  
   - 📦 PEStudio, ProcMon, Wireshark  
   - 📜 noVNC / sandbox for browser malware
-  - 😎 etc.
+  - 😎 lot etc.
 
 ---
 
