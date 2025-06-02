@@ -89,7 +89,7 @@ MARE-Madness/
 ## 📌 Status
 
 This repo grows **organically**—as I learn, break things, and document.  
-No fixed roadmap. Just pure madness and curiosity. 🧠💥
+No fixed roadmap. Just pure madness and curiosity but with moral and ethical means. 🧠💥
 
 ---
 
