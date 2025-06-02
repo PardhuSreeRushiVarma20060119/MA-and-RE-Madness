@@ -56,7 +56,7 @@ MARE-Madness/
 
 > You’re on your own battle arsnel, but here’s what works best for me:
 
-- **OS:** ⚙️ Windows FLARE VM / Linux (Kali or Ubuntu)
+- **OS:** ⚙️ Windows FLARE VM / Linux (Kali or Ubuntu), REMnux
 - **Isolation:** 🧱 VirtualBox / VMWare with snapshots (Mostly VMware)
 - **Tools:**
   - 🐍 Python for scripting  
