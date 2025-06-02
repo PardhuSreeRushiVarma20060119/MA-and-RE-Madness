@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/status-evolving-brightgreen)
 ![License](https://img.shields.io/badge/license-educational-lightgrey)
 
-> A personal vault of resources, experiments, case studies, and insights into the world of malware analysis and reverse engineering.
+> A personal vault of resources, experiments, case studies, insights and lil madness into the world of malware analysis and reverse engineering.
 
 ---
 
