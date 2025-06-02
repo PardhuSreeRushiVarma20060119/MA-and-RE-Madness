@@ -82,7 +82,7 @@ MARE-Madness/
 ## ⚠️ Disclaimer
 
 > **Educational Use Only.**  
-> Any malicious samples, websites, or links (if referenced) are strictly for **educational purposes**. Always analyze inside **air-gapped, isolated environments**, or use only for ethical purposes. Never execute unknown binaries on your host machine or infect other systems or for any malicious intent — **this will be a very  dangerous, illegal and highly punishable offense**.
+> Any samples, websites, or links (if referenced) are strictly for **educational purposes**. Always analyze inside **air-gapped, isolated environments**, or use only for ethical purposes. Never execute unknown binaries on your host machine or infect other systems or for any malicious intent — **this will be a very  dangerous, illegal and highly punishable offense**.
 
 ---
 
