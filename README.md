@@ -78,7 +78,7 @@ MARE-Madness/
 - [Malware Traffic Analysis Website](https://www.malware-traffic-analysis.net/)
 - [Worms Repository](https://github.com/Ephrimgnanam/Worms/)
 - [Malware Bazar](https://bazaar.abuse.ch/)
-- [Open Malware Intelligence](https://vx-underground.org/)
+- [Stealer Agents](https://github.com/Ephrimgnanam/Cute-Stealers)
 
 ---
 
