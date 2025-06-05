@@ -75,8 +75,9 @@ MARE-Madness/
 - [VX-Underground](https://vx-underground.org/)
 - [Reverse Engineering StackExchange](https://reverseengineering.stackexchange.com/)
 - [Malware Traffic Analysis Website](https://www.malware-traffic-analysis.net/)
-- [Worms Repository](https://github.com/Ephrimgnanam/Worms/)
 - [Malware Bazar](https://bazaar.abuse.ch/)
+- [Worms Repository](https://github.com/Ephrimgnanam/Worms/)
+- [Remote Access Trojans](https://github.com/Ephrimgnanam/Cute-RATs)
 - [Stealer Agents](https://github.com/Ephrimgnanam/Cute-Stealers)
 
 ---
