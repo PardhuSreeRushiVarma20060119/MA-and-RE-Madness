@@ -79,7 +79,7 @@ MARE-Madness/
 - [Worms Repository](https://github.com/Ephrimgnanam/Worms/)
 - [Remote Access Trojans](https://github.com/Ephrimgnanam/Cute-RATs)
 - [Stealer Agents](https://github.com/Ephrimgnanam/Cute-Stealers)
-
+- [Hybrid Analysis](https://hybrid-analysis.com/)
 ---
 
 ## ⚠️ Disclaimer
