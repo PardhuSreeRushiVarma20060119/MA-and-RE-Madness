@@ -74,7 +74,6 @@ MARE-Madness/
 - [Malware Unicorn RE101](https://malwareunicorn.org/workshops/re101.html)
 - [VX-Underground](https://vx-underground.org/)
 - [Reverse Engineering StackExchange](https://reverseengineering.stackexchange.com/)
-- [Awesome Reverse Engineering GitHub List](https://github.com/tylerha97/awesome-reverse-engineering)
 - [Malware Traffic Analysis Website](https://www.malware-traffic-analysis.net/)
 - [Worms Repository](https://github.com/Ephrimgnanam/Worms/)
 - [Malware Bazar](https://bazaar.abuse.ch/)
