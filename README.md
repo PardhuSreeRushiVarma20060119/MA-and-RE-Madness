@@ -73,17 +73,68 @@ How-To-Survive-MARE/
 ## 🔗 External Resources Worth Bookmarking
 
 - [Introduction To Malware Analysis Youtube Video (Not Random Shit, But Actualyyy "USEFUL")](https://youtu.be/-cIxKeJp4xo?si=w2a1l3mVJXOHeRYR)
-- [Practical Malware Analysis (Book)](https://www.nostarch.com/malware)
-- [Malware Unicorn RE101](https://malwareunicorn.org/workshops/re101.html)
-- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+
+#### 🛡️ Malware Analysis & Reverse Engineering (MARE) - Resources
+
+### 🔴 YouTube & Educational Creators
+
+- [@_JohnHammond](https://www.youtube.com/@_JohnHammond)
+- [@MalwareAnalysisForHedgehogs](https://www.youtube.com/@MalwareAnalysisForHedgehogs)
+- [@OALABS](https://www.youtube.com/@OALABS)
+- [@huskyhacks](https://www.youtube.com/@huskyhacks)
+- [@jstrosch](https://www.youtube.com/@jstrosch)
+- [@c3rb3ru5d3d53c](https://www.youtube.com/@c3rb3ru5d3d53c)
+- [@lauriewired](https://www.youtube.com/@lauriewired)
+- [@HackerSploit](https://www.youtube.com/@HackerSploit)
+
+### 📚 Courses & Books
+
+- [Practical Malware Analysis (NoStarch Book)](https://nostarch.com/malware)
+- [TCM - Practical Malware Analysis & Triage](https://academy.tcm-sec.com/p/practical-malware-analysis)
+- [Windows Malware Analysis for Beginners - Udemy](https://www.udemy.com/course/windows-malware-analysis-for-beginners/)
+- [Malware Unicorn RE101 Workshop](https://malwareunicorn.org/workshops/re101.html)
+
+### 🌐 Websites & Glossaries
+
+- [Malwarebytes Glossary](https://www.malwarebytes.com/glossary)
+- [SentinelOne Cybersecurity Blog](https://www.sentinelone.com/cybersecurity/)
+- [G Data Malware Blog](https://www.gdatasoftware.com/blog/malware)
+- [Rick’s GitHub Security Notes](https://0xrick.github.io/)
+- [Bytepointer - The Original WinAPI Guide](https://bytepointer.com/articles/the_original_windows_api.htm)
+- [Microsoft Learn: Windows Internals](https://learn.microsoft.com/en-us/windows/)
+- [Microsoft Developer Blog - Old New Thing](https://devblogs.microsoft.com/oldnewthing/)
+- [Microsoft API Archives (Usenet)](https://microsoft.public.vb.winapi.nativcode.narkive.com/)
+- [Practical Security Analytics](https://practicalsecurityanalytics.com/)
+- [Astra Security Blog](https://www.getastra.com/blog/security-audit/)
+- [Safety Detectives Security Blog](https://www.safetydetectives.com/blog/)
+- [Kaspersky Cyber Threat Map](https://cybermap.kaspersky.com/)
+
+### 🧰 Tools & Labs
+
+- [FLARE-VM by Mandiant](https://github.com/mandiant/flare-vm)
+- [Enable gpedit.msc on Windows Home](https://www.itechtics.com/enable-gpedit-windows-10-home/)
+- [Jeremy Beaume's Malware Tools](https://github.com/jeremybeaume/tools)
+
+### 💚 Malware Sample Repositories
+
 - [VX-Underground](https://vx-underground.org/)
+- [Malware Bazaar by Abuse.ch](https://bazaar.abuse.ch/)
+- [TheZoo Malware Repository (ytisf)](https://github.com/ytisf/theZoo/tree/master/malwares)
+- [GitHub Malware Samples](https://github.com/topics/malware-samples)
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+
+### 🎓 Forums and Learning Platforms
+
 - [Reverse Engineering StackExchange](https://reverseengineering.stackexchange.com/)
-- [Malware Traffic Analysis Website](https://www.malware-traffic-analysis.net/)
-- [Malware Bazar](https://bazaar.abuse.ch/)
-- [Worms Repository](https://github.com/Ephrimgnanam/Worms/)
-- [Remote Access Trojans](https://github.com/Ephrimgnanam/Cute-RATs)
-- [Stealer Agents](https://github.com/Ephrimgnanam/Cute-Stealers)
-- [Hybrid Analysis](https://hybrid-analysis.com/)
+- [Awesome Malware Analysis Collection](https://github.com/rshipp/awesome-malware-analysis)
+
+### 🧪 Additional Labs
+
+- [Remote Access Trojans Collection](https://github.com/Ephrimgnanam/Cute-RATs)
+- [Stealer Malware Collection](https://github.com/Ephrimgnanam/Cute-Stealers)
+- [Worms & Payloads](https://github.com/Ephrimgnanam/Worms)
+
 ---
 
 ## ⚠️ Disclaimer
