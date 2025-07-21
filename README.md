@@ -96,6 +96,7 @@ How-To-Survive-MARE/
 
 ### 🌐 Websites & Glossaries
 
+- [TheZoo](https://github.com/ytisf/theZoo/tree/master)
 - [Malwarebytes Glossary](https://www.malwarebytes.com/glossary)
 - [SentinelOne Cybersecurity Blog](https://www.sentinelone.com/cybersecurity/)
 - [G Data Malware Blog](https://www.gdatasoftware.com/blog/malware)
