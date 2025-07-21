@@ -72,6 +72,7 @@ How-To-Survive-MARE/
 
 ## 🔗 External Resources Worth Bookmarking
 
+- [Introduction To Malware Analysis Youtube Video (Not Random Shit, But Actualyyy "USEFUL")](https://youtu.be/-cIxKeJp4xo?si=w2a1l3mVJXOHeRYR)
 - [Practical Malware Analysis (Book)](https://www.nostarch.com/malware)
 - [Malware Unicorn RE101](https://malwareunicorn.org/workshops/re101.html)
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
