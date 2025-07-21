@@ -100,6 +100,8 @@ How-To-Survive-MARE/
 - [SentinelOne Cybersecurity Blog](https://www.sentinelone.com/cybersecurity/)
 - [G Data Malware Blog](https://www.gdatasoftware.com/blog/malware)
 - [Rick’s GitHub Security Notes](https://0xrick.github.io/)
+- [malware-analysis-resources](https://github.com/fwosar/malware-analysis-resources)
+- [Malware, IR - Tools & Resources (GoogleDrive Link, Google Dorked, Opensource Content, Be Catious)](https://docs.google.com/spreadsheets/u/0/d/13wBzwmfAoEBPUgcYM4CgSoj--xLicPz777IQ6iSUlNk/htmlview)
 - [Bytepointer - The Original WinAPI Guide](https://bytepointer.com/articles/the_original_windows_api.htm)
 - [Microsoft Learn: Windows Internals](https://learn.microsoft.com/en-us/windows/)
 - [Microsoft Developer Blog - Old New Thing](https://devblogs.microsoft.com/oldnewthing/)
