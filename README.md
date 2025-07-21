@@ -104,7 +104,7 @@ How-To-Survive-MARE/
 - [Malware, IR - Tools & Resources (GoogleDrive Link, Google Dorked, Opensource Content, Be Catious)](https://docs.google.com/spreadsheets/u/0/d/13wBzwmfAoEBPUgcYM4CgSoj--xLicPz777IQ6iSUlNk/htmlview)
 - [Microsoft Learn: Windows Internals](https://learn.microsoft.com/en-us/windows/)
 - [Microsoft Developer Blog - Old New Thing](https://devblogs.microsoft.com/oldnewthing/)
-- [Microsoft API Archives (Usenet)](https://microsoft.public.vb.winapi.nativcode.narkive.com/)
+- [Microsoft API Archives (Usenet)](https://microsoft.public.vb.winapi.narkive.com/5GVk3E7j/relocation-reloc-section-in-win32-pe-exe)
 - [Practical Security Analytics](https://practicalsecurityanalytics.com/)
 - [Astra Security Blog](https://www.getastra.com/blog/security-audit/)
 - [Safety Detectives Security Blog](https://www.safetydetectives.com/blog/)
