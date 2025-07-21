@@ -102,7 +102,6 @@ How-To-Survive-MARE/
 - [Rick’s GitHub Security Notes](https://0xrick.github.io/)
 - [malware-analysis-resources](https://github.com/fwosar/malware-analysis-resources)
 - [Malware, IR - Tools & Resources (GoogleDrive Link, Google Dorked, Opensource Content, Be Catious)](https://docs.google.com/spreadsheets/u/0/d/13wBzwmfAoEBPUgcYM4CgSoj--xLicPz777IQ6iSUlNk/htmlview)
-- [Bytepointer - The Original WinAPI Guide](https://bytepointer.com/)
 - [Microsoft Learn: Windows Internals](https://learn.microsoft.com/en-us/windows/)
 - [Microsoft Developer Blog - Old New Thing](https://devblogs.microsoft.com/oldnewthing/)
 - [Microsoft API Archives (Usenet)](https://microsoft.public.vb.winapi.nativcode.narkive.com/)
