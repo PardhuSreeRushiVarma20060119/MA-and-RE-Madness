@@ -29,6 +29,7 @@ This isn't a project—it's a **reference lab**, a **playground**, and a **docum
 
 ```
 How-To-Survive-MARE/
+├── 📁 notes/                → My MARE Notes (University Course Notes)
 ├── 📁 homelabs/                → HomeLabs Setup & Installations (MUST)
 ├── 📁 static-analysis/         → Notes, tools, and case studies (strings, PE headers, disasm)
 ├── 📁 dynamic-analysis/        → Execution tracing, sandbox logs, API hooking
