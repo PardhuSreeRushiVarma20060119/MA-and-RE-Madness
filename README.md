@@ -1,4 +1,4 @@
-# 💀 *'Malware Analysis & Reverse Engineering' Madness* 
+# 💀 *'How To Survive Malware Analysis & Reverse Engineering'* 
 ### *Malware Analysis & Reverse Engineering Knowledge Base*
 
 ![Repo Type](https://img.shields.io/badge/type-personal%20knowledge%20base-blueviolet)
