@@ -74,6 +74,7 @@ How-To-Survive-MARE/
 
 - [Practical Malware Analysis (Book)](https://www.nostarch.com/malware)
 - [Malware Unicorn RE101](https://malwareunicorn.org/workshops/re101.html)
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [VX-Underground](https://vx-underground.org/)
 - [Reverse Engineering StackExchange](https://reverseengineering.stackexchange.com/)
 - [Malware Traffic Analysis Website](https://www.malware-traffic-analysis.net/)
